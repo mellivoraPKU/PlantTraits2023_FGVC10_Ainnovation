@@ -6,6 +6,7 @@
 
 ![avatar](images/Selection_003.png)
 ![avatar](images/Selection_004.png)
+![avatar](images/cvpr.png)
 
 **1st place solution**   
 Thanks to the organizers for the interesting competition. We were able to get higher correlation results in plant traits. But unfortunately, our scheme could not directly solve this task, and could not effectively get the value of plant traits directly through the picture. By comparing with the image, we found that the traits of plants are also closely related to the growth period of plants, and it is difficult to obtain accurate values only by using the mean and variance of plant traits. There may be different scales or data units in the given data, and we are eager to further solve this problem. We hope this competition can be run all the time.   
